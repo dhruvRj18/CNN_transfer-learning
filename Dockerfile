@@ -1,5 +1,5 @@
 # build command - docker build -f .\Dockerfile -t tenrfl .
-# Run command - docker run -it -p 8888:8888 tenrfl
+# Run command - docker run -it --gpus=all -p 8888:8888 tenrfl
 
 # Use an official TensorFlow GPU base image
 FROM tensorflow/tensorflow:latest-gpu
