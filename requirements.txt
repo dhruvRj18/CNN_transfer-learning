@@ -6,9 +6,9 @@ plotly
 jupyter
 scikit-learn
 dataprep
-xgboost
 requests
 markupsafe==2.0.1
 tensorflow
 torch
-tensorflow-gpu
+torchvision
+torchaudio
