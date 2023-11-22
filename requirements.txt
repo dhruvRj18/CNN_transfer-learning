@@ -10,3 +10,4 @@ requests
 markupsafe==2.0.1
 tensorflow
 scikit-image
+tensorflow-hub
